@@ -9,4 +9,6 @@ OpenSearch  Getting Started
 
 
 ## Run with Docker
- ''  docker-compose up  ''
+ * ''  docker-compose up  ''
+ * Navigate to http://localhost:5601/ for OpenSearch Dashboards
+ * Login with the default username (admin) and password (admin
