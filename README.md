@@ -6,6 +6,7 @@ OpenSearch  Getting Started
 ## Docs
 - https://opensearch.org/downloads.html
 - https://github.com/aiven/opensearch-migration-examples/tree/main/java-client-migration
+- https://opensearch.org/docs/latest/search-plugins/sql/index/
 
 
 ## Run with Docker
